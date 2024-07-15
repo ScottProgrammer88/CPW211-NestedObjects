@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace NestedObjects
 {
     /// <summary>
-    /// Represents a college avisor
+    /// Represents a college advisor
     /// </summary>
     public class Advisor
     {
